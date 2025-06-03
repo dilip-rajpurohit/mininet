@@ -1,0 +1,27 @@
+
+*** Logging station associations, RSSI, and curl time ***
+sta1 -> AP: 02:00:00:00:05:00, RSSI: -80 dBm
+sta1 curl result:
+Command exited with non-zero status 7
+curl_time: 3.11 sec
+
+sta2 -> AP: 02:00:00:00:05:00, RSSI: -75 dBm
+sta2 curl result:
+Command exited with non-zero status 7
+curl_time: 3.09 sec
+
+sta3 -> AP: 02:00:00:00:05:00, RSSI: -68 dBm
+sta3 curl result:
+Command exited with non-zero status 7
+curl_time: 3.09 sec
+
+sta4 -> AP: 02:00:00:00:05:00, RSSI: -56 dBm
+sta4 curl result:
+Command exited with non-zero status 7
+curl_time: 3.09 sec
+
+sta5 -> AP: None, RSSI: N/A
+sta5 curl result:
+Command exited with non-zero status 7
+curl_time: 3.09 sec
+

@@ -1,0 +1,28 @@
+wifi@wifi-virtualbox:~/cn_lab_esa$ sudo python3 exp1/exp1.py
+*** Creating nodes
+*** Configuring WiFi nodes
+*** Connecting to wmediumd server /var/run/wmediumd.sock
+*** Starting network
+*** Waiting for stations to associate
+*** Waiting for switches/aps to connect
+ap1
+*** Starting iperf server on ap1
+*** Testing throughput for sta1 with bandwidth cap 6M
+*** Testing throughput for sta2 with bandwidth cap 24M
+*** Testing throughput for sta3 with bandwidth cap 65M
+*** Stopping network
+*** Stopping 1 controllers
+c1 
+*** Stopping 3 links
+...
+*** Stopping switches/access points
+ap1 
+*** Stopping nodes
+sta1 sta2 sta3 
+
+*** Removing WiFi module and Configurations
+*** Killing mac80211_hwsim
+
+*** Done
+*** Plotting results
+*** Plot saved as mac_protocol_comparison.png

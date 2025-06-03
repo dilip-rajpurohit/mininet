@@ -1,0 +1,31 @@
+wifi@wifi-virtualbox:~/cn_lab_esa/exp10$ sudo python3 exp10.py
+*** Creating nodes
+*** Configuring WiFi nodes
+*** Connecting to wmediumd server /var/run/wmediumd.sock
+*** Testing video streaming with AP1
+*** Starting video streaming to 127.0.0.1
+*** Reducing signal strength of AP1
+*** Moving station to 150,30,0
+*** Testing video streaming with AP2
+*** Starting video streaming to 127.0.0.1
+*** Stopping 1 controllers
+c0 
+*** Stopping 1 links
+.
+*** Stopping switches/access points
+ap1 ap2 
+*** Stopping nodes
+sta1 
+
+*** Removing WiFi module and Configurations
+*** Killing mac80211_hwsim
+
+*** Done
+
+=== Handover Time: 5.00 seconds ===
+Initial (AP1) Throughput: 5.24 Mbps
+Initial (AP1) Packet Loss: 0.00%
+Initial (AP1) Latency: 0.00 ms
+Handover (AP2) Throughput: 5.24 Mbps
+Handover (AP2) Packet Loss: 0.00%
+Handover (AP2) Latency: 0.00 ms

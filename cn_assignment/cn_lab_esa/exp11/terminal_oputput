@@ -1,0 +1,32 @@
+wifi@wifi-virtualbox:~/cn_lab_esa/exp11$ sudo python3 exp11.py
+*** Creating nodes
+*** Connecting to wmediumd server /var/run/wmediumd.sock
+*** Streaming from AP1
+*** Starting iperf UDP server on AP
+*** Starting iperf UDP client on sta1
+*** Moving station to 100,30,0
+*** Streaming from AP2
+*** Starting iperf UDP server on AP
+*** Starting iperf UDP client on sta1
+*** Moving station to 150,30,0
+*** Streaming from AP3
+*** Starting iperf UDP server on AP
+*** Starting iperf UDP client on sta1
+*** Stopping 1 controllers
+c0 
+*** Stopping 1 links
+.
+*** Stopping switches/access points
+ap1 ap2 ap3 
+*** Stopping nodes
+sta1 
+
+*** Removing WiFi module and Configurations
+*** Killing mac80211_hwsim
+
+*** Done
+
+=== Video Streaming Performance ===
+AP1 -> Throughput: 5.24 Mbps, Loss: 0.0%, Latency: 0.0 ms
+AP2 -> Throughput: 5.24 Mbps, Loss: 0.0%, Latency: 0.0 ms
+AP3 -> Throughput: 5.24 Mbps, Loss: 0.0%, Latency: 0.0 ms

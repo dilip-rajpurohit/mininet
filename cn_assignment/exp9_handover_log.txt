@@ -1,0 +1,124 @@
+
+*** Running AP association + RSSI logging ***
+
+=== Status at simulated time ~5s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: None | Signal: None dBm
+
+=== Status at simulated time ~10s ===
+sta1 connected to: 02:00:00:00:02:00 | Signal: -78 dBm
+Handover triggered for sta1 due to low RSSI (-78 dBm)
+sta2 connected to: 02:00:00:00:02:00 | Signal: -68 dBm
+
+=== Status at simulated time ~15s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -63 dBm
+
+=== Status at simulated time ~20s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -56 dBm
+
+=== Status at simulated time ~25s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -45 dBm
+
+=== Status at simulated time ~30s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -15 dBm
+
+=== Status at simulated time ~35s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -31 dBm
+
+=== Status at simulated time ~40s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -49 dBm
+
+=== Status at simulated time ~45s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -59 dBm
+
+=== Status at simulated time ~50s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -65 dBm
+
+=== Status at simulated time ~55s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -70 dBm
+
+=== Status at simulated time ~60s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -74 dBm
+
+=== Status at simulated time ~65s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -77 dBm
+Handover triggered for sta2 due to low RSSI (-77 dBm)
+
+=== Status at simulated time ~70s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: None | Signal: None dBm
+
+=== Status at simulated time ~75s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -82 dBm
+Handover triggered for sta2 due to low RSSI (-82 dBm)
+
+=== Status at simulated time ~80s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -84 dBm
+
+=== Status at simulated time ~85s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:02:00 | Signal: -86 dBm
+Handover triggered for sta2 due to low RSSI (-86 dBm)
+
+=== Status at simulated time ~90s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -74 dBm
+
+=== Status at simulated time ~95s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -70 dBm
+
+=== Status at simulated time ~100s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -66 dBm
+
+=== Status at simulated time ~105s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -60 dBm
+
+=== Status at simulated time ~110s ===
+sta1 connected to: None | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -51 dBm
+
+=== Status at simulated time ~115s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: -41 dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -35 dBm
+
+=== Status at simulated time ~120s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: None dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -10 dBm
+
+=== Status at simulated time ~125s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: -43 dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -44 dBm
+
+=== Status at simulated time ~130s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: -56 dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -56 dBm
+
+=== Status at simulated time ~135s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: -63 dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -62 dBm
+
+=== Status at simulated time ~140s ===
+sta1 connected to: 02:00:00:00:03:00 | Signal: -69 dBm
+sta2 connected to: 02:00:00:00:03:00 | Signal: -68 dBm
+
+*** Handover Summary ***
+sta1 switched APs 1 times.
+sta2 switched APs 3 times.
+
+*** You can run manual tests from the CLI ***

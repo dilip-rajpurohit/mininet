@@ -1,0 +1,20 @@
+*** Creating nodes
+*** Connecting to wmediumd server /var/run/wmediumd.sock
+*** Running iperf tests
+*** Stopping 1 controllers
+c0 
+*** Stopping 2 links
+..
+*** Stopping switches/access points
+ap1 
+*** Stopping nodes
+sta1 sta2 
+
+*** Removing WiFi module and Configurations
+*** Killing mac80211_hwsim
+
+*** Done
+
+=== Throughput Results (Mbps) ===
+sta1 (near AP): 1.05 Mbps
+sta2 (far  AP): 1.05 Mbps

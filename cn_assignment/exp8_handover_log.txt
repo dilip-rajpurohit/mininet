@@ -1,0 +1,48 @@
+
+*** Running AP association + RSSI logging ***
+
+=== Status at simulated time ~10s ===
+sta1 connected to: 02:00:00:00:06:00 | Signal: -81 dBm
+sta2 connected to: 02:00:00:00:06:00 | Signal: -80 dBm
+sta3 connected to: 02:00:00:00:06:00 | Signal: -80 dBm
+sta4 connected to: 02:00:00:00:06:00 | Signal: -79 dBm
+sta5 connected to: 02:00:00:00:06:00 | Signal: -79 dBm
+sta6 connected to: 02:00:00:00:06:00 | Signal: -80 dBm
+
+=== Status at simulated time ~35s ===
+sta1 connected to: 02:00:00:00:07:00 | Signal: -84 dBm
+Handover detected for sta1!
+sta2 connected to: 02:00:00:00:07:00 | Signal: -82 dBm
+Handover detected for sta2!
+sta3 connected to: 02:00:00:00:07:00 | Signal: -80 dBm
+Handover detected for sta3!
+sta4 connected to: 02:00:00:00:07:00 | Signal: -79 dBm
+Handover detected for sta4!
+sta5 connected to: 02:00:00:00:07:00 | Signal: -79 dBm
+Handover detected for sta5!
+sta6 connected to: 02:00:00:00:07:00 | Signal: -79 dBm
+Handover detected for sta6!
+
+=== Status at simulated time ~65s ===
+sta1 connected to: 02:00:00:00:08:00 | Signal: -87 dBm
+Handover detected for sta1!
+sta2 connected to: 02:00:00:00:08:00 | Signal: -87 dBm
+Handover detected for sta2!
+sta3 connected to: 02:00:00:00:08:00 | Signal: -86 dBm
+Handover detected for sta3!
+sta4 connected to: 02:00:00:00:08:00 | Signal: -84 dBm
+Handover detected for sta4!
+sta5 connected to: 02:00:00:00:08:00 | Signal: -81 dBm
+Handover detected for sta5!
+sta6 connected to: 02:00:00:00:08:00 | Signal: -80 dBm
+Handover detected for sta6!
+
+*** Handover Summary ***
+sta1 switched APs 2 times.
+sta2 switched APs 2 times.
+sta3 switched APs 2 times.
+sta4 switched APs 2 times.
+sta5 switched APs 2 times.
+sta6 switched APs 2 times.
+
+*** You can run manual tests from the CLI ***

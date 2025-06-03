@@ -1,0 +1,28 @@
+wifi@wifi-virtualbox:~/cn_lab_esa/exp9$ sudo python3 exp9.py
+*** Creating nodes
+*** Configuring WiFi nodes
+*** Connecting to wmediumd server /var/run/wmediumd.sock
+*** Running video streaming with AP1
+*** Starting video streaming (UDP) server on AP
+*** Starting video streaming (UDP) client on sta1
+*** Moving station to 150,30,0
+*** Running video streaming with AP2
+*** Starting video streaming (UDP) server on AP
+*** Starting video streaming (UDP) client on sta1
+
+>>> Handover Time: 5.00 seconds
+*** Stopping 1 controllers
+c0 
+*** Stopping 1 links
+.
+*** Stopping switches/access points
+ap1 ap2 
+*** Stopping nodes
+sta1 
+
+*** Removing WiFi module and Configurations
+*** Killing mac80211_hwsim
+
+*** Done
+Initial Throughput (AP1): 5.24 Mbps
+Throughput after Handover (AP2): 5.24 Mbps
